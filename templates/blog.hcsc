@@ -1,0 +1,15 @@
+<?include "prefix.hcsc" title=Blog>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header typewriter" style="--length: 13; --size: 13ch;"><span class="name">Averse</span>'s blog</h2>
+            <div class="blog-list container">
+                <a href="post1.html" target="_blank" rel="noopener noreferrer" class="postlink"><div class="container">
+                    <h3 class="text header">This is a test!</h3><br>
+                    <p class="text">do be a test tho</p>
+                </div></a>
+            </div>
+        </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

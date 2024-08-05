@@ -1,0 +1,4 @@
+templates=templates
+out=out
+static=out/static
+buildArgs=production
