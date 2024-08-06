@@ -35,7 +35,7 @@ jobs:
         uses: actions/setup-go@v5.0.2
         with:
           go-version: "1.22.5"
-      - run: go install github.com/averseabfun/custom-site-compiler@v1.2.0
+      - run: go install github.com/averseabfun/custom-site-compiler@latest
       - run: custom-site-compiler -clean
       - name: Setup Pages
         uses: actions/configure-pages@v5
