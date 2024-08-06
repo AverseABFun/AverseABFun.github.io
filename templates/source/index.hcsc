@@ -1,4 +1,10 @@
-<div style="font-family: monospace; * {background-color: black; color: white;}">
+<style>
+    * {
+        background-color: black;
+        color: white;
+    }
+</style>
+<div style="font-family: monospace;">
 please don't<br>
 <br>
 i don't want to relive that<br>
