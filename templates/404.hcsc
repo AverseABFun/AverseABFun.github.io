@@ -1,0 +1,9 @@
+<?include "prefix.hcsc" title=404>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header">Sorry, the page you were looking for could not be found.</h2>
+        </div>
+    </div>
+</div>
+<?include "suffix.hcsc">
