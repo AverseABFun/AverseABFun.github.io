@@ -35,9 +35,10 @@ jobs:
         uses: actions/setup-go@v5.0.2
         with:
           go-version: "1.22.5"
-      - run: go install github.com/averseabfun/custom-site-compiler@v1.5.2
+      - run: go install github.com/averseabfun/custom-site-compiler@v1.6.0
       - run: custom-site-compiler
       - run: cd arg && custom-site-compiler
+      - run: cd go-packages && custom-site-compiler
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
