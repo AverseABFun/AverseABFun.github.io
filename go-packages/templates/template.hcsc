@@ -2,5 +2,9 @@
 <html>
 <head>
     <meta name="go-import" content="averse.is-a.dev/pkgs/{{name}} git https://github.com/averseabfun/{{path}}">
+    <meta http-equiv="refresh" content="0; url=https://github.com/averseabfun/{{path}}">
 </head>
+<body>
+    Redirecting...
+</body>
 </html>
