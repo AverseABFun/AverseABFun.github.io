@@ -1,0 +1,4 @@
+templates=templates
+out=../out/pkgs
+static={outDir}/static
+buildArgs=-build:production
