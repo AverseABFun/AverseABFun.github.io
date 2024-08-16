@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="go-import" content="averse.is-a.dev/pkgs/{{name}} git https://github.com/averseabfun/{{name}}">
+</head>
+</html>
