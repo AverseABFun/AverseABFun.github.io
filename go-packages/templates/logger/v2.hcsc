@@ -1,1 +1,1 @@
-<?include "template.hcsc" name=logger/v2>
+<?include "template.hcsc" name=logger/v2 path=logger>
