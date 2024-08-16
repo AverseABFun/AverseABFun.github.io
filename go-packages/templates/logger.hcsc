@@ -1,1 +1,1 @@
-<?include "template.hcsc" title=logger>
+<?include "template.hcsc" name=logger>
