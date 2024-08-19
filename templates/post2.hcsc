@@ -1,0 +1,12 @@
+<?include "prefix.hcsc" title=Spein!>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header">Spein!</h2><br>
+            <?markdown>
+            Spein is my new choose-your-own-adventure that I'm planning on trying to update daily. I've linked to it on my main page, and you can see it [here](spein).
+            <?endmd>
+        </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

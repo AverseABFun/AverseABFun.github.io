@@ -1,0 +1,16 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h3 class="text header"><a href="../" class="text link">go back to the Spein index</a></h3><br>
+
+            <h2 class="text header title">John</h2><br>
+            <p class="text body">You wake up. You are very happy today, because today is... today is... something important. You try your hardest to remember, but can't. You clamber out of bed and float over to your sink and brush your teeth, and you look outside to see...</p>
+            <div id="links" class="container">
+                <a href="https://www.homestuck.com/story"><button class="text button">a copy of the game Sburb</button></a>
+                <a href="dadwork"><button class="text button">Dad going off to work</button></a>
+                <a href="void"><button class="text button">the  v o i d</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

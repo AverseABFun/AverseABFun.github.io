@@ -5,9 +5,13 @@
             <h3 class="text header"><a href="../" target="_blank" rel="noopener noreferrer" class="text link">go back to my main page</a></h3><br>
             <h2 class="text header typewriter" style="--length: 13; --size: 13ch;"><span class="name">Averse</span>'s blog</h2>
             <div class="blog-list container">
-                <a href="post1.html" target="_blank" rel="noopener noreferrer" class="postlink"><div class="container">
+                <a href="post1" target="_blank" rel="noopener noreferrer" class="postlink"><div class="container">
                     <h3 class="text header">This is a test!</h3><br>
                     <p class="text">do be a test tho</p>
+                </div></a><br>
+                <a href="post2" target="_blank" rel="noopener noreferrer" class="postlink"><div class="container">
+                    <h3 class="text header">Spein!</h3><br>
+                    <p class="text">Announcing, Spein! My new choose-your-own-adventure!</p>
                 </div></a>
             </div>
         </div>

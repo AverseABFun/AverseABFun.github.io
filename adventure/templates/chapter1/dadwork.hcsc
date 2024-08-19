@@ -1,0 +1,13 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">Dad</h2><br>
+            <p class="text body">You look at him getting into his car and flying a way and idlely wonder what it would be like to be him. As this happens, you see your surroundings slowly fade away and they are replaced with inside his car. You look around and see yourself speeding past your neighbors and towards the city center.</p>
+            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
+            <div id="links" class="container">
+                
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

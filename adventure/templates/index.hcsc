@@ -1,0 +1,23 @@
+<?include "prefix.hcsc" title=Spein>
+<?copyout favicon.ico>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h3 class="text header"><a href="/" target="_blank" rel="noopener noreferrer" class="text link">go back to my main page</a></h3><br><br>
+            
+            <h2 class="text header">Hello, this is <span class="name">Spein</span></h2><br>
+            <h2 class="text header"><span class="name">Spein</span> is a choose your adventure updated daily(hopefully)</h2><br>
+            <h2 class="text header"><span class="name">Spein</span> is divided into chapters and further divided into pages</h2><br>
+            <h2 class="text header">All chapter links link to the first page of the chapter</h2><br>
+            <h2 class="text header">Each chapter will likely have a depth of roughly 10 pages and roughly 5-7 branches somewhere a long the way(so a total of 20-70ish pages)</h2><br>
+            <h2 class="text header">Also, everything should work with no javascript! If anything is broken, please <a href="mailto:averse.abfun@gmail.com">email me</a>!</h2><br>
+            <h2 class="text header">Spein chapters:</h2><br>
+            <div class="container">
+                <ul class="list">
+                    <li><h3 class="text header"><a href="chapter1" target="_blank" rel="noopener noreferrer">Chapter 1 - John</a>(working on)</h3></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<?include "suffix.hcsc">
