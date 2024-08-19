@@ -1,0 +1,15 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<?copyout chapter1/cityscape.png>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">The city center</h2><br>
+            <img src="cityscape.png" alt="An ascii cityscape">
+            <p class="text body">As you watch the cityscape grow closer, you take a sharp turn and head towards the power plant. So THAT'S where he works!</p>
+            <div id="links" class="container">
+                <a href="backhome"><button class="text button">Will yourself back home</button></a>
+                <a href="powerplant"><button class="text button">Continue with him to the power plant</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

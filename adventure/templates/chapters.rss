@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>Spein</title>
+ <description>Spein is a choose-your-own-adventure updated daily</description>
+ <link>https://averse.is-a.dev/spein</link>
+ <copyright>2024 Averse All rights reserved</copyright>
+ <lastBuildDate>Mon, 19 Aug 2024 09:30:00 -0006</lastBuildDate>
+ <pubDate>Mon, 19 Aug 2024 09:30:00 -0006</pubDate>
+ <ttl>1800</ttl>
+
+ <item>
+  <title>Chapter 1 - John</title>
+  <description>Chapter 1 - John</description>
+  <link>https://averse.is-a.dev/spein/chapter1</link>
+  <guid isPermaLink="false">9d39d97e-7fcc-4e6d-a2d4-0bf5a2960a47</guid>
+  <pubDate>Mon, 19 Aug 2024 09:30:00 -0006</pubDate>
+ </item>
+
+</channel>
+</rss>
