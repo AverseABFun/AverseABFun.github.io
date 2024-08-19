@@ -190,3 +190,7 @@ p {
 #links > * {
     margin: 5px;
 }
+
+.cityscape {
+    width: 100%;
+}
