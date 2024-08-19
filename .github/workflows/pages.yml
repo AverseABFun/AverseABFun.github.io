@@ -39,6 +39,7 @@ jobs:
       - run: custom-site-compiler
       - run: cd arg && custom-site-compiler
       - run: cd go-packages && custom-site-compiler
+      - run: cd adventure && custom-site-compiler
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
