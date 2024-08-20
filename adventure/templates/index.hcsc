@@ -1,5 +1,7 @@
 <?include "prefix.hcsc" title=Spein>
 <?copyout favicon.ico>
+<?copyout chapters.atom>
+<?copyout chapters.rss>
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
