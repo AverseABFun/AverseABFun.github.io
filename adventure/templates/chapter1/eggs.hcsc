@@ -2,11 +2,12 @@
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
-            <h2 class="text header title">Back home</h2><br>
-            <p class="text body">As your home rematerializes, you think about the power plant and wonder if anything major will happen there today.</p>
+            <h2 class="text header title">Eggs</h2><br>
+            <p class="text body">You cook up some eggs and wander on out to the living room to watch some TV while you eat.</p>
+            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
             
             <div id="links" class="container">
-                <a href="downstairs"><button class="text button">Head downstairs to make breakfast</button></a>
+                
             </div>
     </div>
 </div>

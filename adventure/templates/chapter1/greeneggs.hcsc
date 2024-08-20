@@ -2,11 +2,11 @@
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
-            <h2 class="text header title">Back home</h2><br>
-            <p class="text body">As your home rematerializes, you think about the power plant and wonder if anything major will happen there today.</p>
-            
+            <h2 class="text header title">Stupid!</h2><br>
+            <p class="text body">Green eggs & ham exists, but we don't have a recipe for it! Pick something more normal!</p>
             <div id="links" class="container">
-                <a href="downstairs"><button class="text button">Head downstairs to make breakfast</button></a>
+                <a href="eggs"><button class="text button">Eggs</button></a>
+                <a href="bacon"><button class="text button">Bacon</button></a>
             </div>
     </div>
 </div>

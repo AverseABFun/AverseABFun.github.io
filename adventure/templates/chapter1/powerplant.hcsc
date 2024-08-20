@@ -4,10 +4,8 @@
         <div id="inside-container" class="container">
             <h2 class="text header title">The power plant</h2><br>
             <p class="text body">You drive up close to it with your dad, and you see it growing bigger and the plant fills the window. You follow him inside and he puts on his hazmat suit and other safety gear.</p>
-            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
-            
             <div id="links" class="container">
-                
+                <a href="safetygear"><button class="text button">Put on safety gear</button></a>
             </div>
     </div>
 </div>

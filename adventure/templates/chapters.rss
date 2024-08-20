@@ -5,8 +5,8 @@
  <description>Spein is a choose-your-own-adventure updated daily</description>
  <link>https://averse.is-a.dev/spein</link>
  <copyright>2024 Averse All rights reserved</copyright>
- <lastBuildDate>Mon, 19 Aug 2024 09:30:00 -0006</lastBuildDate>
- <pubDate>Mon, 19 Aug 2024 09:30:00 -0006</pubDate>
+ <lastBuildDate>Mon, 20 Aug 2024 09:45:00 -0005</lastBuildDate>
+ <pubDate>Mon, 19 Aug 2024 09:30:00 -0005</pubDate>
  <ttl>1800</ttl>
 
  <item>
@@ -14,7 +14,7 @@
   <description>Chapter 1 - John</description>
   <link>https://averse.is-a.dev/spein/chapter1</link>
   <guid isPermaLink="false">9d39d97e-7fcc-4e6d-a2d4-0bf5a2960a47</guid>
-  <pubDate>Mon, 19 Aug 2024 09:30:00 -0006</pubDate>
+  <pubDate>Mon, 19 Aug 2024 09:30:00 -0005</pubDate>
  </item>
 
 </channel>

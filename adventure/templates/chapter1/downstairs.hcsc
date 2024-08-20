@@ -1,0 +1,14 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">The kitchen</h2><br>
+            <p class="text body">You walk downstairs and enter the kitchen. What are you feeling for breakfast today?</p>
+            <div id="links" class="container">
+                <a href="eggs"><button class="text button">Eggs</button></a>
+                <a href="bacon"><button class="text button">Bacon</button></a>
+                <a href="greeneggs"><button class="text button">Green eggs & Ham</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

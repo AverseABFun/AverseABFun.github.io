@@ -7,7 +7,7 @@
 	<link href="https://averse.is-a.dev/spein/chapters.atom" rel="self" />
 	<link href="https://averse.is-a.dev/spein" />
 	<id>urn:uuid:1779ae8c-0e65-4bd0-92c9-a2cc81e805a2</id>
-	<updated>2024-08-19T09:30:00Z</updated>
+	<updated>2024-08-20T14:45:00Z</updated>
 	
 	
 	<entry>
@@ -15,7 +15,7 @@
 		<link rel="alternate" type="text/html" href="https://averse.is-a.dev/spein/chapter1"/>
 		<id>urn:uuid:9d39d97e-7fcc-4e6d-a2d4-0bf5a2960a47</id>
         <published>2024-08-19T09:30:00Z</published>
-		<updated>2024-08-19T09:30:00Z</updated>
+		<updated>2024-08-20T14:45:00Z</updated>
 		<summary>Chapter 1 - John</summary>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
