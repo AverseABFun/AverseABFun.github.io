@@ -1,0 +1,19 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">Well hi there!</h2><br>
+            <p class="text body">
+                    &emsp; <q>Alright, sorry, you looked familiar. Who are you?</q><br>
+                You respond with,<br>
+                    &emsp; <q>I'm, uh, John. I'm new here.</q><br><br>
+                
+                    &emsp; <q>Well why don't you let me show you around? It's a pretty cool place here. It's also quite important; We have a particle accelerator that the scientists use for things I don't understand as well as the main reactor which powers the entire city.</q><br>
+            </p>
+            <div id="links" class="container">
+                <a href="plantshowing"><button class="text button">Let him show you around</button></a>
+                <a href="controlroom"><button class="text button">Ditch him and continue looking at the main control room</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

@@ -2,10 +2,13 @@
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
-            <h2 class="text header title">Bacon</h2><br>
-            <p class="text body">You cook some bacon and scarf down a few pieces as you wander on out to the living room to watch some TV.</p>            
+            <h2 class="text header title">Tour</h2><br>
+            <p class="text body">
+                &emsp; <q>Alright, where do you want to start?</q>
+            </p>
+            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
             <div id="links" class="container">
-                <a href="scroll"><button class="text button">Scroll through channels</button></a>
+                
             </div>
     </div>
 </div>

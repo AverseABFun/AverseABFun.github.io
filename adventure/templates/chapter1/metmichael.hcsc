@@ -1,0 +1,19 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">Oops...</h2><br>
+            <p class="text body">You respond with,<br>
+                &emsp; <q>I think so.</q><br>
+            He questions:<br>
+                &emsp; <q>Why'd you ditch me??</q><br>
+                &emsp; <q>I... don't know.</q><br>
+                &emsp; <q>What do you mean you don't know?</q><br>
+                &emsp; <q>Sometimes it feels like there's some cosmic entity controlling me and I'm not fully in control of my aa-aa--a-aaaa-</q><br>
+            </p>
+            <div id="links" class="container">
+                <a href="../chapter1"><button class="text button">(<b class="blink">RESETTING</b>)</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

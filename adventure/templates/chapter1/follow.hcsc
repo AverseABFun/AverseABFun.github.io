@@ -1,0 +1,13 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">The control area</h2><br>
+            <p class="text body">You continue following him and you reach the reactor control area. He talks with other employees, and you hear bits of conversation about issues the reactor has been having. Hopefully that doesn't cause any issues.</p>
+            <div id="links" class="container">
+                <a href="controlroom"><button class="text button">Look around the control room</button></a>
+                <a href="controlwindow"><button class="text button">Stare out the window into the reactor</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

@@ -1,0 +1,15 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">Main control room</h2><br>
+            <p class="text body">You look around the main control room at all of the things you don't understand and see someone waving to you. You walk over to them and they say,<br>
+                &emsp; <q>Hey! There you are! Actually wait, have we met before? I'm Michael.</q>
+            </p>
+            <div id="links" class="container">
+                <a href="metmichael"><button class="text button">Yes</button></a>
+                <a href="haventmichael"><button class="text button">No</button></a>
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

@@ -195,3 +195,13 @@ p {
     height: 500px;
     width: 100%;
 }
+
+.blink {
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }

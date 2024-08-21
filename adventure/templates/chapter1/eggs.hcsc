@@ -4,10 +4,8 @@
         <div id="inside-container" class="container">
             <h2 class="text header title">Eggs</h2><br>
             <p class="text body">You cook up some eggs and wander on out to the living room to watch some TV while you eat.</p>
-            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
-            
             <div id="links" class="container">
-                
+                <a href="scroll"><button class="text button">Scroll through channels</button></a>
             </div>
     </div>
 </div>

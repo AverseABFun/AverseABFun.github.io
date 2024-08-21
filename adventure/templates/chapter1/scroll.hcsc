@@ -2,10 +2,10 @@
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
-            <h2 class="text header title">Bacon</h2><br>
-            <p class="text body">You cook some bacon and scarf down a few pieces as you wander on out to the living room to watch some TV.</p>            
+            <h2 class="text header title">Channels</h2><br>
+            <p class="text body">You look through the channels, and you find mostly just reruns of reruns and nothing interesting. You finish eating and head back up to your room.</p>
             <div id="links" class="container">
-                <a href="scroll"><button class="text button">Scroll through channels</button></a>
+                <a href="room"><button class="text button">Look around</button></a>
             </div>
     </div>
 </div>
