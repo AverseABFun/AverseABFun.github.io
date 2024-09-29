@@ -1,0 +1,13 @@
+<?include "prefix.hcsc" title=Licenses>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header">My licenses</h2>
+            <ul>
+                <li><a href="/mfpl1a.txt">MFPL 1A</a></li>
+                <li><a href="/mfpl1b.txt">MFPL 1B</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

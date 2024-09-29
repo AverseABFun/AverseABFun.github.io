@@ -4,6 +4,7 @@
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
             <h3 class="text header"><a href="blog" target="_blank" rel="noopener noreferrer" class="text link">go to my blog</a></h3><br>
+            <h3 class="text header"><a href="licenses" target="_blank" rel="noopener noreferrer" class="text link">go to my page of licenses i've made</a></h3><br>
             <div id="webring-wrapper">
                 <a href="https://webring.hackclub.com/" id="previousBtn" class="webring-anchor" title="Previous">‹</a>
                 <a href="https://webring.hackclub.com/" class="webring-logo" title="Hack Club Webring" alt="Hack Club Webring"></a>
