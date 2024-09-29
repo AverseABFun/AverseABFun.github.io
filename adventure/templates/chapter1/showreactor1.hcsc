@@ -1,0 +1,14 @@
+<?include "chapterprefix.hcsc" title=Spein Chapter 1 - John>
+<div id="center" class="container align-items-center justify-content-center d-flex">
+    <div id="shrinkwrap" class="container">
+        <div id="inside-container" class="container">
+            <h2 class="text header title">The reactor</h2><br>
+            <p class="text body">
+                &emsp; <q>The reactor is the pumping heart of the plant; almost everything focuses around it. It's getting a bit old, but we can't really replace it, ay?</q>
+            </p>
+            <div id="links" class="container">
+                
+            </div>
+    </div>
+</div>
+<?include "suffix.hcsc">

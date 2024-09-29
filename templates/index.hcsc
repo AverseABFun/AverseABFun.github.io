@@ -4,7 +4,12 @@
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">
             <h3 class="text header"><a href="blog" target="_blank" rel="noopener noreferrer" class="text link">go to my blog</a></h3><br>
-            <h3 class="text header"><a href="spein" target="_blank" rel="noopener noreferrer" class="text link">check out my choose-your-own-adventure, <span class="name">Spein</span></a></h3><br>
+            <div id="webring-wrapper">
+                <a href="https://webring.hackclub.com/" id="previousBtn" class="webring-anchor" title="Previous">‹</a>
+                <a href="https://webring.hackclub.com/" class="webring-logo" title="Hack Club Webring" alt="Hack Club Webring"></a>
+                <a href="https://webring.hackclub.com/" id="nextBtn" class="webring-anchor" title="Next">›</a>
+                <script src="https://webring.hackclub.com/public/embed.min.js"></script>
+            </div>
             <noscript>This website will work without javascript! However, you won't get the fancy appear effect :3</noscript>
             <h2 class="text header appear">Hello, I am <span class="name">Averse</span></h2><br class="appear">
             <h2 class="text header appear">I make <a href="https://github.com/AverseABFun?tab=repositories" target="_blank" rel="noopener noreferrer" class="text link">cool things</a></h2><br class="appear"><br>

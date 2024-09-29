@@ -6,9 +6,10 @@
             <p class="text body">
                 &emsp; <q>Alright, where do you want to start?</q>
             </p>
-            <br><br><p class="text deadend">You've reached a dead end! Check back again tomorrow!</p>
             <div id="links" class="container">
-                
+                <a href="showcontrolroom1"><button class="text button">The control room</button></a>
+                <a href="showreactor1"><button class="text button">The reactor</button></a>
+                <a href="showbreakroom1"><button class="text button">The break room</button></a>
             </div>
     </div>
 </div>
