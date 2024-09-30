@@ -1,4 +1,6 @@
 <?include "prefix.hcsc" title=Licenses>
+<?copyout mfpl1a.txt>
+<?copyout mfpl1b.txt>
 <div id="center" class="container align-items-center justify-content-center d-flex">
     <div id="shrinkwrap" class="container">
         <div id="inside-container" class="container">

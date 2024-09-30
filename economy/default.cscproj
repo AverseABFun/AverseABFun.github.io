@@ -1,0 +1,4 @@
+templates=templates
+out=../out/economy
+static={outDir}/static
+buildArgs=-build:production

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Averse's site - Economy game</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="content-type" content="text/html">
+    <meta name="author" content="Arthur Beck">
+    <meta name="designer" content="Arthur Beck">
+    <meta name="publisher" content="Arthur Beck">
+    <meta name="no-email-collection" content="http://www.unspam.com/noemailcollection/">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <?static style.css style.[hash].css>
+</head>
+<body>
+    <div class="header-info">
+        <code id="log">You wake up and decide that today is your day: you will become a billionare. Unfortunately, you check your piggy bank and find it to be empty, except for $50.<br>
+        </code>
+    </div>
+    <hr class="solid" />
+    <div class="table">
+        <div id="stats" class="section">
+            <label for="money">Money: $</label><b id="money" name="money">50.00</b>
+        </div>
+        <div id="investments" class="section">
+            <button id="lemonade-stand">
+                Start a lemonade stand(<b>$20</b> up front)<br>
+            </button>
+            <button id="lemonade-stand-work" class="invisible">
+                Work at the lemonade stand(gives <b>$1.00</b> and has a cooldown of 1 second)
+            </button>
+            <button id="host-bake-sale" class="invisible">
+                Host a bake sale(Gives <b>$3.00</b> per second for 30 seconds, and costs <b>$60</b> up front)
+            </button>
+        </div>
+        <div id="upgrades" class="section">
+            <button id="lemonade-stand-worker" class="invisible">Hire a worker to work at the lemonade stand(<b>$10.85</b> per hour(payed minutely), plus <b>$40.00</b> up front)
+            </button>
+            <button id="bake-advertising" class="invisible"></button>
+        </div>
+    </div>
+    <?static script.js script.[hash].js>
+</body>
+</html>
