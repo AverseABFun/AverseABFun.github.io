@@ -11,7 +11,7 @@ This document is governed under itself.
 "This license" refers to version 1B of the Mostly Free Public License(MFPL).
 "The work" refers to any work governed by this license.
 "Modified work" refers to any modified version of any work governed by this license.
-"Works using this work" refers to any work using the governed work in any fasion, including the governed work being linked
+"Works using this work" refers to any work using the governed work in any fashion, including the governed work being linked
     into a binary or in any other capacity, including the governed work being provided by the host system.
 
     TERMS AND CONDITIONS FOR COPYING, DISTRIBUTING, AND MODIFYING
