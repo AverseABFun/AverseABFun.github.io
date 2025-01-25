@@ -12,17 +12,14 @@
                 <script src="https://webring.hackclub.com/public/embed.min.js"></script>
             </div>
             <noscript>This website will work without javascript! However, you won't get the fancy appear effect :3</noscript>
-            <h2 class="text header appear">Hello, I am <span class="name">Averse</span></h2><br class="appear">
+            <h2 class="text header appear">Hello, I am <span class="name">Arthur</span></h2><br class="appear">
             <h2 class="text header appear">I make <a href="https://github.com/AverseABFun?tab=repositories" target="_blank" rel="noopener noreferrer" class="text link">cool things</a></h2><br class="appear"><br>
             <h2 class="text header appear">This is my little home on the internet :3</h2><br class="appear">
             <div class="icon-container container">
                 <ul class="icon-list appear">
-                    <li><a href="https://social.hardfork.ngo/@arthur" target="_blank" rel="noopener noreferrer"><i class="fab fa-mastodon"></i></a></li>
                     <li><a href="https://github.com/AverseABFun" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></li>
                     <li><a href="https://hackclub.com/slack" target="_blank" rel="noopener noreferrer"><i class="fab fa-slack"></i></a></li>
                     <li><a href="https://open.spotify.com/user/31ogb5bcceyqgcdwjdwtffekyzly" target="_blank" rel="noopener noreferrer"><i class="fab fa-spotify"></i></a></li>
-                    <li><a href="https://matrix.to/#/@averse:envs.net" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-comment"></i></a></li>
-                    <li><a href="https://codeberg.org/AverseABFun" target="_blank" rel="noopener noreferrer"><i class="fab fa-git-alt"></i></a></li>
                     <li><a href="mailto:averse.abfun@gmail.com" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-envelope"></i></a></li>
                 </ul>
             </div>
